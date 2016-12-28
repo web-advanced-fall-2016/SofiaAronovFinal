@@ -1,3 +1,3 @@
 # SofiaAronovFinal
 
-![alt tag](https://raw.githubusercontent.com/username/projectname/branch/path/to/curve.png)
+![Alt text](/relative/path/to/curve.png?raw=true "Optional Title")
